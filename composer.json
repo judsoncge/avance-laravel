@@ -1,0 +1,10 @@
+{
+	"name": "Banco de Denúncias",
+	"description": "Sistema Banco de Denúncias da Controladoria Geral do Estado de Alagoas",
+	"authors":[
+		{
+			"name": "Judson Melo Bandeira",
+			"email": "judson.bandeira@cge.al.gov.br"
+		}
+	]
+}
